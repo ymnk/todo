@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <appengine-web-app xmlns="http://appengine.google.com/ns/1.0">
-  <application>lift-test</application>
+  <application>????</application>
   <version>1</version>
   <system-properties>
     <property name="in.gae.j" value="true" />
-    <property name="db.driver" value="org.h2.Driver" />
-    <property name="db.url" value="jdbc:h2:mem:lift;DB_CLOSE_DELAY=-1" />
   </system-properties>
 
   <sessions-enabled>true</sessions-enabled>
